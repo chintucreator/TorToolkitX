@@ -15,7 +15,7 @@ class Commands:
     USERSETTINGS = "usettings@Sbleech_bot"
     INSTADL = "instadl@Sbleech_bot"
     START = "start@Sbleech_bot"
-    USTATUS = "ustatus@Sbleech_bot"
+    USTATUS = "status@Sbleech_bot"
     SETTHUMB = "setthumb@Sbleech_bot"
     CLRTHUMB = "clearthumb@Sbleech_bot"
     SPEEDTEST = "speedtest@Sbleech_bot"
